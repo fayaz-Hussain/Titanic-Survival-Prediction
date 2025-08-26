@@ -38,8 +38,7 @@ Key features include: `Pclass`, `Sex`, `Age`, `SibSp`, `Parch`, `Fare`, `Embarke
 
 ## ✅ Results
 - **Best local accuracy:** ~85% (cross-validation)  
-- **Kaggle Public Leaderboard Score:** `0.76794` 🎉  
-- Ranking around **Top ~9,500** among 18,000+ participants.  
+- **Kaggle Public Leaderboard Score:** `0.76794` 
 
 ---
 
